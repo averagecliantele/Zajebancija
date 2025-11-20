@@ -1,0 +1,42 @@
+STEP translation to Solid Edge
+Date: Friday,October 24,2025 11:19PM
+Source File: C:\Users\vulev\Downloads\crtanje\laser_pointer\SG90 - Micro Servo 9g - Tower Pro.STEP
+Author: Unknown
+Organization: Unknown
+Source System: SolidWorks 2018
+
+Hardware:
+Processor: Intel(R) Core(TM) Ultra 7 155H
+Operating System: Windows 11 Version:24H2 Build:26100 System Type:64-bit
+Installed Memory: 31.47 GB
+
+Software Information
+Parasolid Version: 37.0.118
+PSBodyShop Version: 37.0.94
+Step Adapter Version: 15.0.142
+Solid Edge Version: 225.00.01.004 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Optimize:Off
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\vulev\Downloads\crtanje\laser_pointer
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
+Translation process completed
+Total time required to translate and post process:00 : 00 : 03
